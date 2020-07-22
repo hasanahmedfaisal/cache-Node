@@ -1,0 +1,22 @@
+{
+  "name": "cache-node",
+  "version": "1.0.0",
+  "description": "cache try out for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hasanahmedfaisal/cache-Node.git"
+  },
+  "keywords": [
+    "cacheForNode"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanahmedfaisal/cache-Node/issues"
+  },
+  "homepage": "https://github.com/hasanahmedfaisal/cache-Node#readme"
+}
